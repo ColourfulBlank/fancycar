@@ -21,7 +21,6 @@ function cars(state = {}, action) {
   }
 }
 
-
 export default combineReducers({
   carsLoading,
   cars,
