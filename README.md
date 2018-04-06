@@ -10,6 +10,8 @@ npm start
 ```
 Then a website will pop up on the default browser
 
-current version of project mocked API calls, to hook up to real working API, remove line 116-127 and 146-151
+Current version of project mocked API calls, to hook up to real working API, remove line 116-127 and 146-151
 
-for the requirement about sorting, I did sorting when loading up, first by name, then same name by availability
+For the requirement about sorting, I did sorting when loading up, first by name, then same name by availability
+
+The second question is also included in the directory, under question-two sub-directory.
